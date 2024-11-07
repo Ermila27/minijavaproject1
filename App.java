@@ -1,7 +1,7 @@
  package com.code;
  import java.util.*;
  abstract class Currency {
-
+     private double name ;
     private double usdtBuying;//data hiding 
     private double usdtselling;
     private double eurobuying ;
